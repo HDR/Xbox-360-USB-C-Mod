@@ -18,7 +18,7 @@ Part List:
 
 [Female USB C socket 24pin 180 degree vertical connector]()
 
-[ATtiny85-20SUR]()
+[1x5 2.54mm Pitch header]()
 
 
 
