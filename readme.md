@@ -6,12 +6,12 @@ More info coming soon
 
 **Front**
 
-![Front of pcb](board_front.png)
+![Front of pcb](front.png)
 
 
 **Back**
 
-![Back of pcb](board_back.png)
+![Back of pcb](back.png)
 
 
 Part List:
