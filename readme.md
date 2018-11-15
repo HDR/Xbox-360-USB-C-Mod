@@ -20,7 +20,7 @@ Female USB C socket 24pin 180 degree vertical connector
 
 1x5 2.54mm Pitch header
 
-0603 5.1K 0603 Resistor x 2 (Only required for usb-c to usb-c connections)
+5.1K 0603 Resistor x 2 (Only required for usb-c to usb-c connections)
 
 
 
