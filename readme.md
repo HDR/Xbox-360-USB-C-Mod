@@ -14,7 +14,7 @@ More info coming soon
 ![Back of pcb](back.png)
 
 
-**BOM:**:
+**BOM:**
 
 Female USB C socket 24pin 180 degree vertical connector
 
