@@ -1,4 +1,4 @@
-# Wired Xbox 360 Controller USB-C Mod (Work in progress - More info to come soon)
+# Wired Xbox 360 Controller USB-C Mod - Rev 1.2
 
 Diy USB-C conversion for wired controllers
 
