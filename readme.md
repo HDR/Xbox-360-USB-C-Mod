@@ -39,7 +39,7 @@ Female USB C socket 24pin 180 degree vertical connector
 
 2: Desolder the 5 pin header on the 360 controllers
 
-3: solder the other side of the 5 pins on the pcb to the board
+3: solder the other side of the 5 pins on the pcb to the board (You might have to bend the pins slightly to line up the port)
 
 4: install the 3d printed bracket
 
