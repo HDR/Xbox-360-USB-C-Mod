@@ -1,9 +1,9 @@
-# Wired Xbox 360 Controller USB-C Mod - Rev 1.3
+# Wired Xbox 360 Controller USB-C Mod - Rev 1.4
 
 
 Diy USB-C conversion for wired controllers
 
-Purchase the PCB on [OSHPark](https://oshpark.com/shared_projects/uOzjXaOX)
+Purchase the PCB on [OSHPark](https://oshpark.com/shared_projects/9yLRO1py)
 
 **Front**
 
@@ -24,9 +24,9 @@ Purchase the PCB on [OSHPark](https://oshpark.com/shared_projects/uOzjXaOX)
 
 **BOM:**
 
-Female USB C socket 24pin 180 degree vertical connector
+TYPE-C-31-M-12
 
-1x5 2.54mm Pitch header
+1x4 2.54mm Pitch header
 
 5.1K 0603 Resistor x 2 (Only required for usb-c to usb-c connections)
 
@@ -45,3 +45,9 @@ Female USB C socket 24pin 180 degree vertical connector
 4: install the 3d printed bracket
 
 5: screw the controller back together
+
+**Changelog:**
+
+**1.4:**
+
+- Replaced the usb c receptacle with TYPE-C-31-M-12, this may require some additional modification of the 3d printed bezel, but should make the adapters last way longer.
